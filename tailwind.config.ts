@@ -9,6 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        primary: "#493F3F",
+        secondary: "#5B5151",
+        pinkGradientStart: '#D514CE',
+        pinkGradientEnd: '#BA30AC',
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
