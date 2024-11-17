@@ -44,7 +44,6 @@ const Todolist = () => {
         </div>
       </header>
 
-      {/* Main Content */}
       <main className="flex-grow overflow-y-auto pb-20 flex items-center justify-center">
         <div className="max-w-md mx-auto bg-white/10 p-6 rounded-lg shadow-lg">
           <div className="mb-4">
